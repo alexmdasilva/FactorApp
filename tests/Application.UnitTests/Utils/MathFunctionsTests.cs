@@ -1,9 +1,10 @@
+using Application.Utils;
 using FluentAssertions;
 using System;
 using System.Collections.Generic;
 using Xunit;
 
-namespace Application.UnitTests
+namespace Application.UnitTests.Utils
 {
     public class MathFunctionsTests
     {
